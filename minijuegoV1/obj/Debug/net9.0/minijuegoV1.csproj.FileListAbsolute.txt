@@ -1,0 +1,14 @@
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\bin\Debug\net9.0\minijuegoV1.exe
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\bin\Debug\net9.0\minijuegoV1.deps.json
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\bin\Debug\net9.0\minijuegoV1.runtimeconfig.json
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\bin\Debug\net9.0\minijuegoV1.dll
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\bin\Debug\net9.0\minijuegoV1.pdb
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\minijuegoV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\minijuegoV1.AssemblyInfoInputs.cache
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\minijuegoV1.AssemblyInfo.cs
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\minijuegoV1.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\minijuegoV1.dll
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\refint\minijuegoV1.dll
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\minijuegoV1.pdb
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\minijuegoV1.genruntimeconfig.cache
+C:\Users\Sebas\Documents\minijuego\minijuego\minijuegoV1\obj\Debug\net9.0\ref\minijuegoV1.dll
